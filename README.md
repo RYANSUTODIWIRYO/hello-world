@@ -1,2 +1,5 @@
 # hello-world
-My first app!
+
+Hello everybody.
+
+My name is Ryan an d I'm a noob in programming
